@@ -1,0 +1,23 @@
+body {background-color: #CFF5E7;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 4%;
+    border-width: 5px;
+    border-color: gold;
+
+}
+
+h1 {color: #59C1BD;}
+
+h3 {color: #59C1BD;}
+
+.bulktext {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    margin-left: -.75;
+    margin-right: -.75;
+    width: calc(100% + 1.5rem);
+}
